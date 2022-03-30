@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mghisham/mghisham.github.io/main/images/undraw/engineer.png">
+
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning FLutter
+- 🌱 I’m currently learning React-Native & FLutter
 - 👯 I’m looking to collaborate on <>
 - 🤔 I’m looking for help with <>
 - 💬 Ask me about 'Android Dev'
