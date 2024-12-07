@@ -3,17 +3,17 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mghisham/mghisham.github.io/main/images/undraw/engineer.png">
 
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning KMM
-- 👯 I’m looking to collaborate on App Architecture
-- 💬 Ask me about 'Android Code'
-- 📫 How to reach me: /mghisham
+- 🌱 I’m currently learning Kotlin Backend & KMM
+- 👯 I’m looking to collaborate on Kotlin Backend
+- 💬 Ask me about 'Android and Kotlin Code'
+- 📫 How to reach me: `/mghisham`
 
-
-![mghisham github stats](https://github-readme-stats.vercel.app/api?username=mghisham&show_icons=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mghisham&layout=compact&theme=radical)](https://github.com/mghisham)
 
 <br>
+
+|Status|Languages |
+|---|---|
+|![mghisham github stats](https://github-readme-stats.vercel.app/api?username=mghisham&show_icons=true&show_icons=true&theme=radical)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mghisham&layout=compact&theme=radical)](https://github.com/mghisham)|
 
 <div align=center>
 
